@@ -5,7 +5,7 @@
 - Building models of brain driven by interacting brain regions driving behaviors 
 - Now, I work as a data scientist and a consulting associate in life science practice, delivering data driven solutions to healtchare companies, and tryng to simplify the complicated healthcare infrastructure. 
 
-For more of my work : please visithttps://scholar.google.com/citations?user=EofyFdAAAAAJ&hl=en
+For more of my work : please visit https://scholar.google.com/citations?user=EofyFdAAAAAJ&hl=en
 
 <!---
 nyadav147/nyadav147 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
